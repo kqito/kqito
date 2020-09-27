@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+<p>I'm a web application engineer and a big fan JavaScript/TypeScript !!</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kqito&count_private=true&theme=dracula" />
+</div>
 
-<!--
-**kqito/kqito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Look!!
+I have recently developed a react library that allows for easy global state management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're a react user, please take a look!
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=react-hook-contexts" />
+
+
+
+--------
+
+[![Twitter Badge](https://img.shields.io/badge/-@kqito_n-181717?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kqito_n)](https://twitter.com/kqito_n)
