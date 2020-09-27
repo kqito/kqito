@@ -1,6 +1,6 @@
 <div align="center">
-<p>I'm a web application engineer and a big fan JavaScript/TypeScript !!</p>
-<img src="https://github-readme-stats.vercel.app/api?username=kqito&count_private=true&theme=dracula" />
+  <b>I'm a web application engineer and a big fan JavaScript/TypeScript !!</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=kqito&count_private=true&theme=dracula" />
 </div>
 
 
@@ -9,8 +9,9 @@ I have recently developed a react library that allows for easy global state mana
 
 If you're a react user, please take a look!
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=react-hook-contexts" />
-
+<a href="https://github.com/kqito/react-hook-contexts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=react-hook-contexts" />
+</a>
 
 
 --------
