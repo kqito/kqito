@@ -7,7 +7,9 @@
 ## Look!!
 I have recently developed a react library that allows for easy global state management.
 
-If you're a react user, please take a look!
+This library is intended to avoid the implementation costs of redux and also to prevent unnecessary renders, which is a problem with the context API.
+
+If you're a react user, please take a look ;)
 
 <a href="https://github.com/kqito/react-hook-contexts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=react-hook-contexts&theme=react" />
