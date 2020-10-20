@@ -11,8 +11,8 @@ This library is intended to avoid the implementation costs of redux and also to 
 
 If you're a react user, please take a look ;)
 
-<a href="https://github.com/kqito/use-global-hook-context">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-hook-context&theme=react" />
+<a href="https://github.com/kqito/use-global-state-context">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-state-context&theme=react" />
 </a>
 
 
