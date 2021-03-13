@@ -5,16 +5,15 @@
 
 
 ## Look!!
-I have recently developed a react library that allows for easy global state management.
-
-This library is intended to avoid the implementation costs of redux and also to prevent unnecessary renders, which is a problem with the context API.
-
-If you're a react user, please take a look ;)
+Please take a look and star ;)
 
 <a href="https://github.com/kqito/use-global-context">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-context&theme=react" />
 </a>
 
+<a href="https://github.com/kqito/type-assert-object">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=type-assert-object&theme=react" />
+</a>
 
 --------
 
