@@ -7,15 +7,13 @@
 ## Look!!
 Please take a look and star ;)
 
-<div>
+<div align="center">
 <a href="https://github.com/kqito/use-global-context">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-context&theme=react" />
 </a>
-<br />
 <a href="https://github.com/kqito/use-tus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-tus&theme=react" />
 </a>
-<br />
 </div>
 
 --------
