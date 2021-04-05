@@ -16,9 +16,6 @@ Please take a look and star ;)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-tus&theme=react" />
 </a>
 <br />
-<a href="https://github.com/kqito/type-assert-object">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=type-assert-object&theme=react" />
-</a>
 </div>
 
 --------
