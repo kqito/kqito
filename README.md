@@ -9,7 +9,7 @@ Please take a look and star ;)
 
 <div align="center">
 <a href="https://github.com/kqito/use-global-context">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-context&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-global-context&theme=react&card_width=400px" />
 </a>
 <a href="https://github.com/kqito/use-tus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-tus&theme=react&card_width=400px" />
