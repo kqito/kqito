@@ -5,7 +5,6 @@
 
 
 ## Look!!
-Please take a look and star ;)
 
 <div align="center">
 <a href="https://github.com/kqito/use-tus">
