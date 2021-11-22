@@ -7,8 +7,8 @@
 ## Look!!
 
 <div align="center">
-<a href="https://github.com/kqito/use-tus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-tus&theme=react&card_width=400" />
+<a href="https://github.com/kqito/use-simple-atom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kqito&repo=use-simple-atom&theme=react&card_width=400" />
 </a>
 </div>
 
